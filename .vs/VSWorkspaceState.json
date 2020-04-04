@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C++",
-    "\\C++\\临时",
-    "\\Python"
+    "\\C++"
   ],
-  "SelectedNode": "\\C++\\临时\\test.cpp",
+  "SelectedNode": "\\C++\\分离整数的各个数位.cpp",
   "PreviewInSolutionExplorer": false
 }
