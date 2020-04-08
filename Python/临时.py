@@ -1,7 +1,9 @@
-ss = input("请输入一个字符串：")
-c = input("请输入一个字符：")
-cnt = 0
-for i in ss:
-    if i == c:
-        cnt = cnt + 1
-print("{0}中共有{1}个{2}！".format(ss,cnt,c))
+def func(n):
+    for i in range(2,n):
+        if n%i == 0:
+            return False
+    else:
+            return True
+
+
+print(func(eval(input("请输入数值"))))
